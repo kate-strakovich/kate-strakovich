@@ -15,7 +15,9 @@
 <a href= "mailto:strakovic77@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
 
----
+---  
+
+## 📌 Некоторые инструменты, которые я использую:
 
 ### 📁 Тестовая документация:
 
