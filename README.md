@@ -67,4 +67,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
-</div>
+</div>  
+
+---  
+
+## 📌 Testing Artefacts
+- [Testing Theory](https://github.com/kate-strakovich/theory)
+- [Test Design Techniques](https://github.com/kate-strakovich/design)
+- [Test Documentation](https://github.com/kate-strakovich/docs)
+- [Web Application Testing](https://github.com/kate-strakovich/web)
+- [API Testing](https://github.com/kate-strakovich/api)
+- [Working with Databases](https://github.com/kate-strakovich/database)
+- [Mobile App Testing](https://github.com/kate-strakovich/mobile)
+- [Working with Git and Bash](https://github.com/kate-strakovich/git_bash)
