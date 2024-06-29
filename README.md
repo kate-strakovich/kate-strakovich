@@ -1,4 +1,4 @@
-## Привет! 👋 <img src="https://img.icons8.com/?size=512&id=JdpV0QAmt2ap&format=png" width="25" height="25" >
+## Привет! 👋 <img src="https://img.icons8.com/?size=512&id=JdpV0QAmt2ap&format=png" width="25" height="25" > 
 
 ---  
 
