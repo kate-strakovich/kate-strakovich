@@ -8,4 +8,4 @@
 Здесь я хочу поделиться портфолио по веб- и мобильному тестированию, полученным во время учебы и домашних проектов.  
 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@katsiaryna-strakovich-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/katsiaryna-strakovich-77012320a/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:strakovic77@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/katsiaryna-strakovich-77012320a/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:strakovic77@gmail.com)
