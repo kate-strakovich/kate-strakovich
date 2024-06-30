@@ -15,9 +15,7 @@
 <a href= "mailto:strakovic77@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kate-strakovich.kate-strakovich&"  />
-</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kate-strakovich.kate-strakovich)
 
 ---  
 
