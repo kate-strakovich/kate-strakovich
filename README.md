@@ -13,7 +13,11 @@
 <a href= "https://www.linkedin.com/in/katsiaryna-strakovich-77012320a/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/RinaSt_o7"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 <a href= "mailto:strakovic77@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
-</p>
+</p>  
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kate-strakovich.kate-strakovich&"  />
+</div>
 
 ---  
 
